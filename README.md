@@ -1,6 +1,6 @@
 # Doosuur_protfolio
 
-Project 1: Superstore data analysis: Project Overview.
+[Project 1: Superstore data analysis: Project Overview.](https://github.com/Doosuur/Projects/blob/main/Superstore%20Project.ipynb)
 
 Analysed the products, regions, categories, and consumer segments the store needs to concentrate on.
 
