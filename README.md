@@ -10,3 +10,4 @@ predicted the profit based on the other variables given.
 
 Optimized decision tree regressor model and Random Forest Regressor model to make predictions.
 
+![](https://github.com/Doosuur/Doosuur_portfolio/blob/main/images/superstore.png)
