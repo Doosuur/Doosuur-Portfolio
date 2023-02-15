@@ -1,4 +1,4 @@
-theme: slate
+
 
 [Project 1: Superstore data analysis: Project Overview.](https://github.com/Doosuur/Projects/blob/main/Superstore%20Project.ipynb)
 
@@ -18,3 +18,5 @@ Optimized decision tree regressor model and Random Forest Regressor model to mak
 Built a classification model to predict the survival and death rate of passengers on the ship
 
 ![](https://github.com/Doosuur/Doosuur_portfolio/blob/main/images/Screenshot%20(177).png)
+
+theme: slate
