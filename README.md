@@ -1,6 +1,6 @@
 # Portfolio Projects
 
-## [Project 1: Superstore data analysis: Project Overview.](https://github.com/Doosuur/Projects/blob/main/Superstore%20Project.ipynb)
+## [Project 1: Superstore data analysis: Project Overview.](https://github.com/Doosuur/Superstore-dataset)
 
 Analysed the products, regions, categories, and consumer segments the store needs to concentrate on.
 
@@ -15,7 +15,7 @@ Optimized decision tree regressor model and Random Forest Regressor model to mak
 
 
 
-## [Project 2: Titanic Data set: project overview](https://github.com/Doosuur/Projects/blob/main/Titanic%20dataset.ipynb)
+## [Project 2: Titanic Data set: project overview](https://github.com/Doosuur/Titanic-dataset)
 
 Built a classification model to predict the survival and death rate of passengers on the ship
 
@@ -24,7 +24,7 @@ Built a classification model to predict the survival and death rate of passenger
 
 ## [Project 3: Fifa 2021 Dataset: project overview](https://github.com/Doosuur/Fifa-2021-Dataset)
 
-Data Cleaning
+### Data Cleaning
 
 Analysed each column carefully
 
@@ -38,4 +38,8 @@ Examine the Hits column for any more anomalies.
 
 Separated the contract column to start and end dates
 
+
+## [Project 4: Fifa 2021 Dataset: project overview](https://github.com/Doosuur/Amazon-Data-Science-Books-Dataset)
+
+### Data Cleaning
 
